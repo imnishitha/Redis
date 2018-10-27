@@ -1,0 +1,11 @@
+select X- Command to select partition X as wroking partition.
+hset- set a hashmap in the form key field value.
+hmset- set multiple hash fields in the form key f1 v1 f2 v2..
+hget- fetch the value of a hash field of a key.
+hgetall- fetch all the hash fields of a key.
+dbsize- Return no. of keys in the partition.
+del- delete a particular key.
+flushdb- removes all keys from current partition.
+flushall- removes all keys from all partitions.
+
+
