@@ -7,8 +7,7 @@ Aim- To develop an utility to fetch the data from redis from the specified parti
 
 Redis, RE-dis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperloglogs, bitmaps, streams and spatial indexes.
 
-Download and install redis from [here]
-(https://redis.io).
+Download and install redis from https://redis.io
 
 ## JSON
 JSON: JavaScript Object Notation.
