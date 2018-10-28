@@ -1,10 +1,15 @@
-# Redis
+
+# Redis to flat file Sync.
+
+Aim- To develop an utility to fetch the data from redis from the specified partition, store the data in json format in a specified .json file and also to the dump back the data onto to specified partition in redis from the .json file after modifying the data fetched as per the requirements.
+
+## Redis
 
 Redis, RE-dis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperloglogs, bitmaps, streams and spatial indexes.
 
-Download and install redis from https://redis.io
+Download and install redis from [here] (https://redis.io).
 
-# JSON
+## JSON
 JSON: JavaScript Object Notation.
 JSON is a syntax for storing and exchanging data.
 JSON is text, written with JavaScript object notation.
@@ -13,11 +18,8 @@ When exchanging data between a browser and a server, the data can only be text.
 JSON is text, and we can convert any JavaScript object into JSON, and send JSON to the server.
 We can also convert any JSON received from the server into JavaScript objects.
 This way we can work with the data as JavaScript objects, with no complicated parsing and translations.
-
-
-# Redis to flat file Sync.
-
-An utility to fetch the data from redis from the specified partition, store the data in json format in a specified .json file and also to the dump back the data onto to specified partition in redis from the .json file after modifying the data fetched as per the requirements.
+ 
+###Steps to execute the code.
 Download the .jar file and execute it on command prompt as described below.
 
 Steps to execute the file:
