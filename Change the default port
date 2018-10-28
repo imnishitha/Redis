@@ -5,4 +5,3 @@ Redis by default uses the port 6379. So,if you want to use different port to run
 2. Copy the file or edit that one and change the port directive to any free port.
 3. Start Redis with the new config file (note that if you've copied the file in the previous step, you'll need to change the service's startup script to use that file).
 
-Also refer- https://www.youtube.com/watch?v=7g8b1Opzfd4 
